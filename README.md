@@ -39,41 +39,52 @@ Built and delivered a logistics platform using Next.js and related technologies.
 
 ## GitHub Insights
 
-
 <table>
   <tr>
     <td width="50%" align="center">
-      <!-- Top Languages -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-tiwariii&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-tiwariii&layout=compact&hide_border=true&theme=transparent"
+        alt="Top Languages"
+      />
     </td>
     <td width="50%" align="center">
-      <!-- GitHub Stats: commits, stars, prs, etc. -->
-      <img src="https://github-readme-stats.vercel.app/api?username=priyanshu-tiwariii&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="GitHub Stats" />
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=priyanshu-tiwariii&show_icons=true&hide_border=true&count_private=true&theme=transparent"
+        alt="GitHub Stats"
+      />
     </td>
   </tr>
+
   <tr>
     <td colspan="2" align="center">
-      <!-- Contribution Graph -->
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu-tiwariii&bg_color=transparent&hide_border=true" alt="Contribution Graph" />
+      <img 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu-tiwariii&bg_color=transparent&color=777&line=777&point=777&area=true&hide_border=true"
+        alt="Contribution Graph"
+      />
     </td>
   </tr>
+
   <tr>
     <td width="50%" align="center">
-      <img src="https://leetcard.jacoblin.cool/priyanshu-tiwarii?theme=dark&border=0"/>
+      <img 
+        src="https://leetcard.jacoblin.cool/priyanshu-tiwarii?theme=dark&border=0"
+        alt="LeetCode Stats"
+      />
     </td>
-
-   <td width="50%" align="center">
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,postgres,mongodb,redis,prisma,docker,kubernetes,aws,git&theme=dark" />
-</p>
+    <td width="50%" align="center">
+      <img 
+        src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,nextjs,postgres,mongodb,redis,prisma,docker,kubernetes,aws,git,linux&theme=dark"
+        alt="Tech Stack Icons"
+      />
     </td>
   </tr>
 </table>
 
 
+
 ## Connections
 
-[Email](mailto:priyanshu-tiwari@hotmail.com) | [LinkedIn](https://linkedin.com/in/priyanshu-tiwarii) | [GitHub](https://github.com/priyanshu-tiwariii) | [LeetCode](https://leetcode.com/priyanshu-tiwarii)
+[Email](mailto:priyanshu-tiwari@hotmail.com) | [LinkedIn](https://linkedin.com/in/priyanshu-tiwarii) | [GitHub](https://github.com/priyanshu-tiwariii)
 
 ---
 
