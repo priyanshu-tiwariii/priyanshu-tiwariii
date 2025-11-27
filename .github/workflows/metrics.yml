@@ -14,12 +14,12 @@ jobs:
       - name: Checkout repository using PAT
         uses: actions/checkout@v4
         with:
-          # use your classic PAT so all subsequent operations (GraphQL & push) authenticate with it
           token: ${{ secrets.METRICS_TOKEN }}
           fetch-depth: 0
 
       - name: Run GitHub metrics generator
-        uses: lowlighter/metrics@v1
+        # use 'main' if a version tag isn't available
+        uses: lowlighter/metrics@main
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
