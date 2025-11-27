@@ -7,13 +7,13 @@ Noida, India
 
 ## About
 
-I work across both frontend and backend development, with experience in building web applications, APIs, and distributed services. My work involves creating interfaces using React and Next.js, and developing backend systems with TypeScript, Node.js, Hono, PostgreSQL. I focus on building applications that are structured, clear, and easy to maintain.
+I build things because I can’t sit still when an idea shows up. If something clicks in my head, I open the laptop and start writing until it either works or breaks. Most of the time I don’t know exactly what the end result will be, but I follow the thread until it becomes something real.
 
-I have worked with databases, containers, and service-level components, which has helped me understand how systems operate in real environments. I also explore topics such as replication, data flow, real-time communication, and backend design patterns.
+I don’t box myself into backend or frontend. I use whatever the problem demands. Some days it’s Node.js and databases, other days it’s React or Next.js. What I care about is a system that makes sense clean structure, fast responses, predictable behaviour.
 
-I led a team at the Smart India Hackathon where we built a logistics platform involving routing, map integration, and data modeling. The project was selected as the winning solution and gave me practical exposure to engineering a complete system from planning to delivery.
+I’ve had nights where nothing worked and mornings where it finally did. That cycle of trying, failing, fixing, and finishing is what pushed me through SIH and almost every project I’ve built. I don’t stop because something breaks; I keep going until it doesn’t.
 
-I am pursuing a B.Tech in Information Technology at Ajay Kumar Garg Engineering College, and I continue learning through personal projects and exploration of backend engineering, frontend architecture, and system behavior.
+I’m in my final year of B.Tech IT, and I’m looking for places where building matters where clarity matters, where solving problems matters, where the work speaks louder than the title.
 
 ---
 
@@ -39,7 +39,6 @@ Built and delivered a logistics platform using Next.js and related technologies.
 
 ## GitHub Insights
 
-The images below update automatically. They use transparent backgrounds so they integrate with both dark and light modes.
 
 <table>
   <tr>
@@ -68,7 +67,7 @@ The images below update automatically. They use transparent backgrounds so they 
     </td>
   </tr>
 </table>
----
+
 
 ## Connections
 
