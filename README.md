@@ -80,12 +80,12 @@ Built and delivered a logistics platform using Next.js and related technologies.
   </tr>
 </table>
 
-
+---
 
 ## Connections
 
 [Email](mailto:priyanshu-tiwari@hotmail.com) | [LinkedIn](https://linkedin.com/in/priyanshu-tiwarii) | [GitHub](https://github.com/priyanshu-tiwariii)
 
----
+
 
 
