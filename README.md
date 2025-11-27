@@ -63,7 +63,9 @@ Built and delivered a logistics platform using Next.js and related technologies.
     </td>
 
    <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/priyanshu-tiwariii/priyanshu-tiwariii/main/github-metrics.svg" alt="GitHub Metrics" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,postgres,mongodb,redis,prisma,docker,kubernetes,aws,git,linux&theme=dark" />
+</p>
     </td>
   </tr>
 </table>
