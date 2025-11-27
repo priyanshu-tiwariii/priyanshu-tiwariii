@@ -64,7 +64,7 @@ The images below update automatically. They use transparent backgrounds so they 
     </td>
 
    <td width="50%" align="center">
-    <img src= "https://github-contributor-stats.vercel.app/api?username=priyanshu-tiwariii&limit=5&combine_all_yearly_contributions=true&hide_border=true"/>
+      <img src="https://raw.githubusercontent.com/priyanshu-tiwariii/priyanshu-tiwariii/main/github-metrics.svg" alt="GitHub Metrics" />
     </td>
   </tr>
 </table>
