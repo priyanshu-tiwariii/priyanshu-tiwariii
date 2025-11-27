@@ -64,7 +64,7 @@ Built and delivered a logistics platform using Next.js and related technologies.
 
    <td width="50%" align="center">
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,postgres,mongodb,redis,prisma,docker,kubernetes,aws,git,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,postgres,mongodb,redis,prisma,docker,kubernetes,aws,git&theme=dark" />
 </p>
     </td>
   </tr>
