@@ -13,7 +13,7 @@ I don’t box myself into backend or frontend. I use whatever the problem demand
 
 I’ve had nights where nothing worked and mornings where it finally did. That cycle of trying, failing, fixing, and finishing is what pushed me through SIH and almost every project I’ve built. I don’t stop because something breaks; I keep going until it doesn’t.
 
-I’m in my final year of B.Tech IT, and I’m looking for places where building matters—where clarity matters, where solving problems matters, where the work speaks louder than the title.
+I’m in my final year of B.Tech IT, and I’m looking for places where building matters where clarity matters, where solving problems matters, where the work speaks louder than the title.
 
 ---
 
